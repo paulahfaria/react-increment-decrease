@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+  background-color: #e84118;
+}
+
+
+.container{
+  width: 960px;
+  margin: 10vh auto;
+  text-align: center;
+}
+
+h2{
+  color: #f5f6fa;
+  font-size: 60px;
+  text-align: center;
+}
+
+.button{
+  display: inline-block;
+  border: none;
+  color: #FFF;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  margin: 0 20px;
+}
+
+.button-container{
+  text-align: center;
+}
+.button--up{
+  background: #44bd32;
+}
+
+.button--down{
+  background: #40739e;
+}
+
+.button--view{
+  background: transparent;
+  margin-bottom: 20px;
+}
